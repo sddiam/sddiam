@@ -4,6 +4,7 @@
 - 블로그: flora255.tistory.com
 - 깃헙:
 
+![](https://github.com/yonsei-app-dev-club/yonsei-app-dev-club-2022/raw/main/github-metrics-serithemage.svg)
 
 ## Summary
 > 백엔드 개발자
