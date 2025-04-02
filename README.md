@@ -4,7 +4,7 @@
 
 - 이메일: flora255@naver.com 
 - 블로그: flora255.tistory.com
-- 깃헙:
+- 깃헙: https://github.com/sddiam
 
 ## Summary
 > 백엔드 개발자
