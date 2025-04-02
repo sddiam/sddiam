@@ -17,3 +17,8 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          base: "repositories"
+          plugin_habits: yes  # 📌 3D 잔디 활성화
+          plugin_habits_days: 30  # 최근 30일 데이터 반영
+          plugin_habits_facts: yes  # 커밋 습관 통계 추가
+          plugin_habits_charts: yes  # 📌 3D 잔디 그래프 활성화
