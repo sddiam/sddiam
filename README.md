@@ -10,15 +10,6 @@
 > 백엔드 개발자
 
  ![Metrics](/github-metrics.svg)
- 
-**Tech** :  
-한 번 이상 다루어 본 기술들   
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-
-
-### 앞으로 공부할 것들
-- MySQL
-- JAVA script
 
 ## 학력
 - **대학교**: 동아대학교
