@@ -2,7 +2,6 @@
 ## 개인 정보
 - **이름**: 강민서
 - **이메일**: flora94370009@gmail.com
-- **전화번호**: [당신의 전화번호]
 - **GitHub**: https://github.com/sddiam
 - **블로그**: flora255.tistory.com
 
